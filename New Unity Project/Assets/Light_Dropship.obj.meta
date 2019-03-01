@@ -1,0 +1,225 @@
+fileFormatVersion: 2
+guid: 0ef70f13836829d4ea7eaae75ef410e2
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: g_Bottom_Aft_001_Bottom_Aft_001
+    100002: g_Bottom_Fore_001_Bottom_Fore_001
+    100004: g_Cannon_001_Cannon_001
+    100006: g_Cockpit_001_Cockpit_001
+    100008: g_Exhaust_Fins_001_Exhaust_Fins_001
+    100010: g_Glass_001_Glass_001
+    100012: g_Group_001_Group_001
+    100014: g_Lower_Door_001_Lower_Door_001
+    100016: g_Side_001_Side_001
+    100018: g_Top_001_Top_001
+    100020: g_Upper_Door_001_Upper_Door_001
+    100022: g_Wing_001_Wing_001
+    100024: //RootNode
+    400000: g_Bottom_Aft_001_Bottom_Aft_001
+    400002: g_Bottom_Fore_001_Bottom_Fore_001
+    400004: g_Cannon_001_Cannon_001
+    400006: g_Cockpit_001_Cockpit_001
+    400008: g_Exhaust_Fins_001_Exhaust_Fins_001
+    400010: g_Glass_001_Glass_001
+    400012: g_Group_001_Group_001
+    400014: g_Lower_Door_001_Lower_Door_001
+    400016: g_Side_001_Side_001
+    400018: g_Top_001_Top_001
+    400020: g_Upper_Door_001_Upper_Door_001
+    400022: g_Wing_001_Wing_001
+    400024: //RootNode
+    2100000: g_Bottom_Aft_001_Bottom_Aft_001Mat
+    2100002: g_Bottom_Fore_001_Bottom_Fore_001Mat
+    2100004: g_Cannon_001_Cannon_001Mat
+    2100006: g_Cockpit_001_Cockpit_001Mat
+    2100008: g_Exhaust_Fins_001_Exhaust_Fins_001Mat
+    2100010: g_Glass_001_Glass_001Mat
+    2100012: g_Group_001_Group_001Mat
+    2100014: g_Lower_Door_001_Lower_Door_001Mat
+    2100016: g_Side_001_Side_001Mat
+    2100018: g_Top_001_Top_001Mat
+    2100020: g_Upper_Door_001_Upper_Door_001Mat
+    2100022: g_Wing_001_Wing_001Mat
+    2300000: g_Bottom_Aft_001_Bottom_Aft_001
+    2300002: g_Bottom_Fore_001_Bottom_Fore_001
+    2300004: g_Cannon_001_Cannon_001
+    2300006: g_Cockpit_001_Cockpit_001
+    2300008: g_Exhaust_Fins_001_Exhaust_Fins_001
+    2300010: g_Glass_001_Glass_001
+    2300012: g_Group_001_Group_001
+    2300014: g_Lower_Door_001_Lower_Door_001
+    2300016: g_Side_001_Side_001
+    2300018: g_Top_001_Top_001
+    2300020: g_Upper_Door_001_Upper_Door_001
+    2300022: g_Wing_001_Wing_001
+    3300000: g_Bottom_Aft_001_Bottom_Aft_001
+    3300002: g_Bottom_Fore_001_Bottom_Fore_001
+    3300004: g_Cannon_001_Cannon_001
+    3300006: g_Cockpit_001_Cockpit_001
+    3300008: g_Exhaust_Fins_001_Exhaust_Fins_001
+    3300010: g_Glass_001_Glass_001
+    3300012: g_Group_001_Group_001
+    3300014: g_Lower_Door_001_Lower_Door_001
+    3300016: g_Side_001_Side_001
+    3300018: g_Top_001_Top_001
+    3300020: g_Upper_Door_001_Upper_Door_001
+    3300022: g_Wing_001_Wing_001
+    4300000: g_Bottom_Aft_001_Bottom_Aft_001
+    4300002: g_Bottom_Fore_001_Bottom_Fore_001
+    4300004: g_Cannon_001_Cannon_001
+    4300006: g_Cockpit_001_Cockpit_001
+    4300008: g_Exhaust_Fins_001_Exhaust_Fins_001
+    4300010: g_Glass_001_Glass_001
+    4300012: g_Group_001_Group_001
+    4300014: g_Lower_Door_001_Lower_Door_001
+    4300016: g_Side_001_Side_001
+    4300018: g_Top_001_Top_001
+    4300020: g_Upper_Door_001_Upper_Door_001
+    4300022: g_Wing_001_Wing_001
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g_Bottom_Aft_001_Bottom_Aft_001Mat
+    second: {fileID: 2100000, guid: 9a8668adcca2ab94b88ed465dce3f1a9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g_Bottom_Fore_001_Bottom_Fore_001Mat
+    second: {fileID: 2100000, guid: c2b1ddd4ad5e89a4aa2a9514558e4483, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g_Cannon_001_Cannon_001Mat
+    second: {fileID: 2100000, guid: 05346c705e5bafa4aa55420becce2549, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g_Cockpit_001_Cockpit_001Mat
+    second: {fileID: 2100000, guid: 36eef697d1698cc4684725e2df89c2dd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g_Exhaust_Fins_001_Exhaust_Fins_001Mat
+    second: {fileID: 2100000, guid: dfac10f2dbb42bc42b61ea819081a7fe, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g_Glass_001_Glass_001Mat
+    second: {fileID: 2100000, guid: d51426ab6b3ec9142ba380523e44d9d7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g_Group_001_Group_001Mat
+    second: {fileID: 2100000, guid: 5993a1fbf6c1516439b6aeb402d2b5b0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g_Lower_Door_001_Lower_Door_001Mat
+    second: {fileID: 2100000, guid: 99bd8a5c0cfd8cf40a1f62f0c618911b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g_Side_001_Side_001Mat
+    second: {fileID: 2100000, guid: 4b1525e58df2be64e9b159c9e79a9757, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g_Top_001_Top_001Mat
+    second: {fileID: 2100000, guid: e0108ed0e4a8cdc4188e4f6a0e1781ce, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g_Upper_Door_001_Upper_Door_001Mat
+    second: {fileID: 2100000, guid: 65a53d02468f5b749927cab879326429, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g_Wing_001_Wing_001Mat
+    second: {fileID: 2100000, guid: c666374e9946a544aa4ba482013107ad, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 2
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
